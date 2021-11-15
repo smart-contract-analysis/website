@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Testing and Security Analysis of Smart Contracts
 
-You can use the [editor on GitHub](https://github.com/smart-contract-analysis/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Overview
+Physics is fundamentally about identifying patterns in data and codifying them in mathematical language. A machine learning approach to achieve the same goal is called [symbolic regression](https://en.wikipedia.org/wiki/Symbolic_regression){:target="_blank"}. While symbolic regression has been around for a long time, there has been some recent efforts to applying it to data to identify patterns and convert it into mathematical expressions. We propose a variation of symbolic regression, wherein, we combine a neural network-based symbolic regression tool with a mathematical reasoning solver in a corrective feedback look (a method we refer to as Logic Guided Machine Learning) and apply it to data to learn mathematical functions and physics equations. We have also done some work on pure symbolic regression (based on neural networks) to learn several symmetries and conserved quantities in physics. See publications below:
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smart-contract-analysis/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Projects
+Currently, we have three projects in this space:
+1. [Discovering Laws of Physics via Interpretable Siamese Neural Networks](https://ml-logic-seminar.github.io/ml_logic_website/siamese.html){:target="_blank"}
+2. [Logic Guided Machine Learning(LGML)](https://ml-logic-seminar.github.io/ml_logic_website/lgml.html){:target="_blank"}
+3. [Logic Guided Genetic Algorithms (LGGA)](https://dhananjayashok.github.io/LGGA/){:target="_blank"}
