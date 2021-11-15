@@ -1,4 +1,4 @@
-# Testing and Security Analysis of Smart Contracts
+# MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contracts
 
 
 ## Overview
