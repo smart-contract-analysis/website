@@ -5,8 +5,6 @@
 - [Vijay Ganesh](https://ece.uwaterloo.ca/~vganesh/){:target="_blank"}, University of Waterloo
 
 
-William Zhang, University of Waterloo
-
 ## Researchers
 - [William Zhang](https://www.linkedin.com/in/quan-zhang-william/?originalSubdomain=ca){:target="_blank"}, University of Waterloo
 - [Sebastian Banescu](https://www.in.tum.de/i04/banescu/){:target="_blank"}, Quantstamp Inc
