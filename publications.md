@@ -1,6 +1,7 @@
 # Publications
 
-- William Zhang, Sebastian Banescu, Leodardo Pasos, Steven Stewart, Vijay Ganesh 
+- William Zhang, Sebastian Banescu, Leodardo Pasos, Steven Stewart, and Vijay Ganesh
+
   MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract
   The 30th International Symposium on Software Reliability Engineering (ISSRE 2019), Berlin, Germany, Nov 01 , 2019. 
 
