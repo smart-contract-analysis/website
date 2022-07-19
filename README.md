@@ -12,7 +12,7 @@ Smart contracts are immutable programs on the Blockchain that enforce legal and 
 ## Publications:
 1. **Behkish Nassirzadeh, Huaiying Sun, Sebastian Banescu, and Vijay Ganesh**  
   Gas Gauge: A Security Analysis Tool for Smart Contract Out-of-Gas Vulnerabilities  
-  **MARBLE 2022 The 3rd International Conference on Mathematical Research for Blockchain Economy, Vilamoura, Portugal, July 12, 2022.**  
+  **MARBLE 2022 The 3rd International Conference on Mathematical Research for Blockchain Economy, Vilamoura, Portugal, July 12 - 14, 2022.**  
 [[pdf](https://arxiv.org/pdf/2112.14771){:target="_blank"}][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-2112-14771.html?view=bibtex){:target="_blank"}]
 
 2. **William Zhang, Sebastian Banescu, Leodardo Pasos, Steven Stewart, and Vijay Ganesh**  
