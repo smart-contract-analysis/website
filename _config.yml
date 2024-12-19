@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
-title: Testing and Security Analysis of Smart Contracts
+title: Innovating Blockchain and Cybersecurity: Research and Insights
 description:
 show_downloads: false
