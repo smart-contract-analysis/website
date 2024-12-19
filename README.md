@@ -12,10 +12,8 @@ Attack resistance is a formal framework to evaluate defense mechanisms like ASLR
 
 ## Some of the projects we are working on include:
 1. [Gas Gauge: A Security Analysis Tool for Smart Contract Out-of-Gas Vulnerabilities](https://smart-contract-analysis.github.io/website/gas_gauge.html){:target="_blank"}
-2. [Gas Gauge: A Security Analysis Tool for Smart Contract Out-of-Gas Vulnerabilities](https://smart-contract-analysis.github.io/website/gas_gauge.html){:target="_blank"}
-3. [Gas Gauge: A Security Analysis Tool for Smart Contract Out-of-Gas Vulnerabilities](https://smart-contract-analysis.github.io/website/gas_gauge.html){:target="_blank"}
-4. 
-5. [MPro (formerly known as M-Pro) : Combining Static and Symbolic Analysis for Scalable Testing of Smart Contracts](https://smart-contract-analysis.github.io/website/mpro.html){:target="_blank"}
+2. [Z3 String Constraint Solver](https://z3string.github.io/){:target="_blank"}
+3. [MPro (formerly known as M-Pro) : Combining Static and Symbolic Analysis for Scalable Testing of Smart Contracts](https://smart-contract-analysis.github.io/website/mpro.html){:target="_blank"}
 
 ## Publications:
 1. **Behkish Nassirzadeh, Albert Heinle, Stefanos Leonardos, Anwar Hasan, and Vijay Ganesh**  
