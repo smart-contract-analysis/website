@@ -25,5 +25,3 @@ We want to apply our approach to other defense mechanisms (e.g., DieHarder), sid
 
 ## More Information
 1. [Repository](https://sites.google.com/u/0/d/1mD_yqgU7XF_DtpQBtSmpaA6QDwcD3DVt/p/1E9aPcdTDffpKscIGAI3r-MIXXV-c8Z6R/preview){:target="_blank"}
-2. [Code](https://github.com/QuanZhang-William/M-Pro){:target="_blank"}
-
