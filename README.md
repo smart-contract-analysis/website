@@ -14,7 +14,7 @@ Attack resistance is a formal framework to evaluate defense mechanisms like ASLR
 
 ### Some of the projects we are working on include:
 1. [Gas Gauge: A Security Analysis Tool for Smart Contract Out-of-Gas Vulnerabilities](https://smart-contract-analysis.github.io/website/gas_gauge.html){:target="_blank"}
-2. [Attack-resistance Defense Mechanism](https://sites.google.com/u/0/d/1mD_yqgU7XF_DtpQBtSmpaA6QDwcD3DVt/p/1E9aPcdTDffpKscIGAI3r-MIXXV-c8Z6R/preview){:target="_blank"}
+2. [Attack-resistance Defense Mechanism]([https://sites.google.com/u/0/d/1mD_yqgU7XF_DtpQBtSmpaA6QDwcD3DVt/p/1E9aPcdTDffpKscIGAI3r-MIXXV-c8Z6R/preview](https://smart-contract-analysis.github.io/website/attack.html)){:target="_blank"}
 3. [MPro (formerly known as M-Pro) : Combining Static and Symbolic Analysis for Scalable Testing of Smart Contracts](https://smart-contract-analysis.github.io/website/mpro.html){:target="_blank"}
 
 ### Publications:
