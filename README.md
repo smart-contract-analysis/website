@@ -1,5 +1,5 @@
+# Attack Resistant Defense Mechanisms Website
 
-# Innovating Blockchain and Cybersecurity: Research and Insights
 
 ## Applications and Security of Blockchain
 
