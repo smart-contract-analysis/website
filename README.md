@@ -1,5 +1,5 @@
 
-# Innovating Blockchain and Cybersecurity: Research and Insights
+# Attack-resistant defense mechanisms
 
 ## Applications and Security of Blockchain
 
