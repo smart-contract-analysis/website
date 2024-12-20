@@ -22,3 +22,38 @@ We applied our analysis to certain variants of address space layout randomizatio
 
 **Q5: What are the future goals of this project?**
 We want to apply our approach to other defense mechanisms (e.g., DieHarder), side-channel defenses, as well as to cryptographic obfuscation methods.
+
+# People
+
+
+## Principal Investigators
+- [Vijay Ganesh](https://vganesh1.github.io/){:target="_blank"}, Georgia Institute of Technology
+- [Martin Ochoa](http://dblp.uni-trier.de/pers/hd/o/Ochoa:Mart=iacute=n){:target="_blank"}, Singapore University of Technology and Design
+- [Sebastian Banescu](https://www.in.tum.de/i04/banescu/){:target="_blank"}, Quantstamp Inc
+
+
+## Researchers
+- [Gilles Barthe](https://software.imdea.org/people/gilles.barthe/){:target="_blank"}, IMDEA Software
+- [Mayank Varia](http://www.mvaria.com/){:target="_blank"}, Boston University
+- [Cynthia Disenfeld](https://dblp.org/pid/57/11135.html) , University of Toronto
+
+
+# Publications and Slides
+
+- **Martin Ochoa, Sebastian Banescu, Cynthia Disenfeld, Gilles Barthe, and Vijay Ganesh**  
+Reasoning about Probabilistic Defense Mechanisms against Remote Attacks  
+**The Second IEEE European Symposium on Security and Privacy (IEEE EuroS&P 2017), Paris, France, April 28, 2017.**  
+[[pdf](https://arxiv.org/abs/1701.06743){:target="_blank"}][[bib](https://dblp.uni-trier.de/rec/journals/corr/OchoaBDBG17.html?view=bibtex){:target="_blank"}][[Slides](https://ece.uwaterloo.ca/~vganesh/Publications_files/TalkSlides-vg2017-EuroSP-AttackResistance2017.pdf){:target="_blank"}]  
+
+- **Vijay Ganesh, Sebastian Banescu, and Martin Ochoa**  
+The Meaning of Attack-Resistant Programs  
+**International Workshop on Programming Languages and Security (PLAS at ECOOP 2015), Prague, Czech Republic, July 6, 2015.** 
+*Presentation-only at International Workshop on Foundations of Computer Security (FCS at CSF 2015), Verona, Italy, July 13, 2015.*  
+[[pdf](https://arxiv.org/pdf/1502.04023v2){:target="_blank"}][[bib](https://dblp.uni-trier.de/rec/journals/corr/GaneshBO15.html?view=bibtex){:target="_blank"}]  
+
+- **Vijay Ganesh, Michael Carbin, and Martin Rinard**  
+Cryptographic Path Hardening: Hiding Vulnerabilities in Software through Cryptography  
+**Off-the-Beaten-Path Workshop @ POPL 2012, Philadelphia, PA, USA, January 22, 2012.**  
+[[pdf](https://arxiv.org/abs/1202.0359?context=cs){:target="_blank"}][[bib](https://dblp.uni-trier.de/rec/journals/corr/abs-1202-0359.html?view=bibtex){:target="_blank"}]
+
+
