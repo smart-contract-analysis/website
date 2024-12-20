@@ -1,5 +1,5 @@
 
-# Attack-resistant defense mechanisms
+# Innovating Blockchain and Cybersecurity: Research and Insights
 
 ## Applications and Security of Blockchain
 
@@ -7,7 +7,7 @@
 Smart contracts are immutable programs on the Blockchain that enforce legal and financial contracts. There are many reported cases of security exploits of smart contracts resulting in millions of dollars in lost coins. In this project, we are developing a variety of tools, including but not limited to combinations of static and symbolic analysis, fuzzing, and verification methods, aimed at detecting security vulnerabilities in smart contracts. We furthur, investigate the possibility of expanding the applications of Blockchain.
 
 
-## Attack-resistant security defense mechanisms
+## Attack-resistant defense mechanisms
 
 ### Overview of Research
 Attack resistance is a formal framework to evaluate defense mechanisms like ASLR and cryptographic obfuscation. It ensures that a protected program (\(P + D\)) is computationally indistinguishable from an ideal program (\(IP\)), even if both have the same bug. This means attackers cannot exploit vulnerabilities in \(P + D\) due to the defense mechanism \(D\). The framework reduces the attacker's success probability to negligible levels, leveraging security parameters like random seeds. Variants also address practical, weaker attackers, such as SAT-based models.
