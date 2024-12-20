@@ -37,7 +37,7 @@
 
 * {
   box-sizing: border-box;
-};
+}
 
 .container {
   display: flex;
@@ -46,56 +46,48 @@
   justify-content: flex-end;
   flex-flow: column wrap;
   align-items: center;
-};
+}
 
 .page-header {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-
-  @include large {
-    padding: 0;
-  }
-
-  @include medium {
-    padding: 0;
-  }
-
-  @include small {
-    padding: 0;
-  }
 }
 
 @media (max-width: 840px) {
-  .topnav a:not(:first-child) {display: none;};
+  .topnav a:not(:first-child) {
+    display: none;
+  }
   .topnav a.icon {
     float: right;
     display: block;
-  };
+  }
   .headerImg {
     display: none;
-  };
-};
+  }
+}
 @media (max-width: 840px) {
-  .topnav.responsive {position: relative;}
+  .topnav.responsive {
+    position: relative;
+  }
   .topnav.responsive .icon {
     position: absolute;
     right: 0;
     top: 0;
-  };
+  }
   .topnav.responsive a {
     float: none;
     display: block;
     text-align: left;
-  };
-};
-table tr th:nth-child(2){
+  }
+}
+table tr th:nth-child(2) {
   width: 25%;
-};
-table tr th:nth-child(3){
+}
+table tr th:nth-child(3) {
   width: 25%;
-};
+}
 
 /* Drop-down menu styles */
 .dropdown {
@@ -116,10 +108,13 @@ table tr th:nth-child(3){
 .dropdown-content {
   display: none;
   position: absolute;
+  top: 100%; /* Ensures the drop-down aligns below the button */
+  left: 0; /* Aligns the drop-down to the left edge of the button */
   background-color: #f9f9f9;
   min-width: 160px;
   box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  border-radius: 4px; /* Optional: adds a slight rounded corner */
 }
 
 .dropdown-content a {
@@ -127,6 +122,7 @@ table tr th:nth-child(3){
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  font-size: 16px;
 }
 
 .dropdown-content a:hover {
@@ -134,5 +130,11 @@ table tr th:nth-child(3){
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+  display: block; /* Show the drop-down content on hover */
+}
+
+/* Optional: Slight padding between menu items for better appearance */
+.topnav a,
+.dropbtn {
+  margin: 0 4px;
 }
