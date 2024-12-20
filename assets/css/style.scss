@@ -1,41 +1,93 @@
-/* Add this for drop-down functionality */
-.dropdown {
-  position: relative;
-  display: inline-block; /* Ensures it fits with your existing inline-flex structure */
+---
+---
+
+@import "{{ site.theme }}";
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  width: 100%;
+  display: inline-flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
 }
 
-.dropbtn {
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
   color: #f2f2f2;
+  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
 }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%; /* Aligns drop-down menu below the drop-down button */
-  left: 0; /* Aligns it with the drop-down button */
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {
+/* Change the color of links on hover */
+.topnav a:hover {
   background-color: #ddd;
+  color: black;
 }
 
-.dropdown:hover .dropdown-content {
-  display: block; /* Show drop-down menu on hover */
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
 }
+
+* {
+  box-sizing: border-box;
+};
+
+.container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: flex-end;
+  flex-flow: column wrap;
+  align-items: center;
+};
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+
+  @include large {
+    padding: 0;
+  }
+
+  @include medium {
+    padding: 0;
+  }
+
+  @include small {
+    padding: 0;
+  }
+}
+
+@media (max-width: 840px) {
+  .topnav a:not(:first-child) {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+  .headerImg {
+    display: none;
+  }
+}
+@media (max-width: 840px) {
+  .topnav.responsive {
+    position: relative;
+  }
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    disp
